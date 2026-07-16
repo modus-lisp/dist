@@ -1,0 +1,17 @@
+# project system-file system-name [dependency1..dependencyN]
+cl-consensus cl-consensus cl-consensus bordeaux-threads cl-transport com.inuoe.jzon hunchentoot ironclad pagetree secp256k1-fast usocket
+cl-consensus cl-consensus cl-consensus/tor cl-consensus cl-tor-transport
+cl-tor cl-tor cl-tor bordeaux-threads chipz ironclad seal usocket
+cl-tor cl-tor cl-tor/test cl-tor
+cl-tor cl-tor-transport cl-tor-transport cl-tor cl-transport
+cl-transport cl-transport cl-transport usocket
+natrium natrium natrium
+natrium natrium natrium/test natrium
+pagetree pagetree pagetree
+pagetree pagetree pagetree/test pagetree
+seal seal seal natrium sb-bsd-sockets
+seal seal seal/test seal
+secp256k1-fast secp256k1-fast secp256k1-fast
+secp256k1-fast secp256k1-fast secp256k1-fast/test secp256k1-fast
+zstd-pure zstd-pure zstd-pure
+zstd-pure zstd-pure zstd-pure/test zstd-pure
