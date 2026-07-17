@@ -1,0 +1,11 @@
+# project url size file-md5 content-sha1 prefix [system-file1..system-fileN]
+cl-consensus https://modus-lisp.github.io/dist/modus/archive/cl-consensus-20260714.tgz 243780 654acf7fab22ba71a2ffe83e45b04774 1a529961843c53f79b8823e72398adf0d010a185 cl-consensus-20260714 cl-consensus.asd
+cl-frpc https://modus-lisp.github.io/dist/modus/archive/cl-frpc-20260717.tgz 19174 903fbad90a781f534ded9c9a2ed50ab6 e144821396f82396e61ce053fd3290b85c4e126c cl-frpc-20260717 cl-frpc.asd
+cl-rustdesk https://modus-lisp.github.io/dist/modus/archive/cl-rustdesk-20260717.tgz 10630 e20ce1846fb03a3fa59d320337396970 89be65c52f32a49b3e6d79ba9284e1d673d4b368 cl-rustdesk-20260717 cl-rustdesk.asd
+cl-tor https://modus-lisp.github.io/dist/modus/archive/cl-tor-20260709.tgz 61325 1c0e70d6715ee23ce70277cf09d81ee7 a19caa5f062168da3c81ba10b108222bac2f5b69 cl-tor-20260709 cl-tor.asd cl-tor-transport.asd
+cl-transport https://modus-lisp.github.io/dist/modus/archive/cl-transport-20260717.tgz 4194 90e3683efe7656a0b034d9813d294ecb 659495771c70a5c4cd8be58ee56ab6d8ae3fc2a4 cl-transport-20260717 cl-transport.asd
+natrium https://modus-lisp.github.io/dist/modus/archive/natrium-20260714.tgz 153904 71d7842f21d33975d9012c09005c67f8 cb83d49d467ed2ebe28ea683fb1bede33fe3cb9c natrium-20260714 natrium.asd
+pagetree https://modus-lisp.github.io/dist/modus/archive/pagetree-20260716.tgz 64337 861fbeba712b81fc410e36866f343296 1f0d8e0f228228d0fc147eef9a86db569eebcf89 pagetree-20260716 pagetree.asd
+seal https://modus-lisp.github.io/dist/modus/archive/seal-20260715.tgz 56267 6a24f8f3f0d1d242fd5e35ecc496d9f1 8822d30c1eef676b38c07b871816c2e5d91d5fb5 seal-20260715 seal.asd
+secp256k1-fast https://modus-lisp.github.io/dist/modus/archive/secp256k1-fast-20260628.tgz 33086 210e7d6ff47217986125056ec64234ab ada99ba7033eeaf8cbd6b8069dc0665465593417 secp256k1-fast-20260628 secp256k1-fast.asd
+zstd-pure https://modus-lisp.github.io/dist/modus/archive/zstd-pure-20260628.tgz 28755 e05fbf11451ccbd3a4ecf567aff2a094 03d9746af617701f61043487737abf653462f52d zstd-pure-20260628 zstd-pure.asd
