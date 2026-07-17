@@ -1,7 +1,7 @@
 # project url size file-md5 content-sha1 prefix [system-file1..system-fileN]
 cl-consensus https://modus-lisp.github.io/dist/modus/archive/cl-consensus-20260714.tgz 243780 654acf7fab22ba71a2ffe83e45b04774 1a529961843c53f79b8823e72398adf0d010a185 cl-consensus-20260714 cl-consensus.asd
 cl-frpc https://modus-lisp.github.io/dist/modus/archive/cl-frpc-20260717.tgz 19174 903fbad90a781f534ded9c9a2ed50ab6 e144821396f82396e61ce053fd3290b85c4e126c cl-frpc-20260717 cl-frpc.asd
-cl-rustdesk https://modus-lisp.github.io/dist/modus/archive/cl-rustdesk-20260717.tgz 10630 e20ce1846fb03a3fa59d320337396970 89be65c52f32a49b3e6d79ba9284e1d673d4b368 cl-rustdesk-20260717 cl-rustdesk.asd
+cl-rustdesk https://modus-lisp.github.io/dist/modus/archive/cl-rustdesk-20260717.tgz 13845 d40d494b49003cdcc8d3f2da44b58e7f 1cb297af61e9789dd780f860aea6565854c09aed cl-rustdesk-20260717 cl-rustdesk.asd
 cl-tor https://modus-lisp.github.io/dist/modus/archive/cl-tor-20260709.tgz 61325 1c0e70d6715ee23ce70277cf09d81ee7 a19caa5f062168da3c81ba10b108222bac2f5b69 cl-tor-20260709 cl-tor.asd cl-tor-transport.asd
 cl-transport https://modus-lisp.github.io/dist/modus/archive/cl-transport-20260717.tgz 4194 90e3683efe7656a0b034d9813d294ecb 659495771c70a5c4cd8be58ee56ab6d8ae3fc2a4 cl-transport-20260717 cl-transport.asd
 natrium https://modus-lisp.github.io/dist/modus/archive/natrium-20260714.tgz 153904 71d7842f21d33975d9012c09005c67f8 cb83d49d467ed2ebe28ea683fb1bede33fe3cb9c natrium-20260714 natrium.asd

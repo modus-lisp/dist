@@ -3,7 +3,7 @@ cl-consensus cl-consensus cl-consensus bordeaux-threads cl-transport com.inuoe.j
 cl-consensus cl-consensus cl-consensus/tor cl-consensus cl-tor-transport
 cl-frpc cl-frpc cl-frpc bordeaux-threads cl-transport com.inuoe.jzon ironclad seal
 cl-frpc cl-frpc cl-frpc/test cl-frpc
-cl-rustdesk cl-rustdesk cl-rustdesk bordeaux-threads cl-transport usocket
+cl-rustdesk cl-rustdesk cl-rustdesk bordeaux-threads cl-transport ironclad usocket
 cl-rustdesk cl-rustdesk cl-rustdesk/test cl-rustdesk
 cl-tor cl-tor cl-tor bordeaux-threads chipz ironclad seal usocket
 cl-tor cl-tor cl-tor/test cl-tor
