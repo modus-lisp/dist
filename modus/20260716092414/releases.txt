@@ -1,9 +1,0 @@
-# project url size file-md5 content-sha1 prefix [system-file1..system-fileN]
-cl-consensus https://modus-lisp.github.io/dist/modus/archive/cl-consensus-20260714.tgz 243776 2dccd0cb20aaff25992cb53ee6c7e625 1a529961843c53f79b8823e72398adf0d010a185 cl-consensus-20260714 cl-consensus.asd
-cl-tor https://modus-lisp.github.io/dist/modus/archive/cl-tor-20260709.tgz 61326 20f94a97e33cd21b83ee9210fe3eb8d2 a19caa5f062168da3c81ba10b108222bac2f5b69 cl-tor-20260709 cl-tor.asd cl-tor-transport.asd
-cl-transport https://modus-lisp.github.io/dist/modus/archive/cl-transport-20260708.tgz 3015 eb41c93ed0b3c07c0f3c8f14ff5609a0 77cea5cbea0c53fbc65fc7943e1202cd5b34446d cl-transport-20260708 cl-transport.asd
-natrium https://modus-lisp.github.io/dist/modus/archive/natrium-20260714.tgz 153904 69c0276b15638503689404f25255b91f cb83d49d467ed2ebe28ea683fb1bede33fe3cb9c natrium-20260714 natrium.asd
-pagetree https://modus-lisp.github.io/dist/modus/archive/pagetree-20260716.tgz 64335 ee668fc9b6b3e454c1f31b0b648e1dd8 1f0d8e0f228228d0fc147eef9a86db569eebcf89 pagetree-20260716 pagetree.asd
-seal https://modus-lisp.github.io/dist/modus/archive/seal-20260715.tgz 56267 9672d8c98728edd49801a298f6b20247 8822d30c1eef676b38c07b871816c2e5d91d5fb5 seal-20260715 seal.asd
-secp256k1-fast https://modus-lisp.github.io/dist/modus/archive/secp256k1-fast-20260628.tgz 33084 7178a25d6f7eb1d2af6f3884dd95f30b ada99ba7033eeaf8cbd6b8069dc0665465593417 secp256k1-fast-20260628 secp256k1-fast.asd
-zstd-pure https://modus-lisp.github.io/dist/modus/archive/zstd-pure-20260628.tgz 28757 e06d228aafcb7a8ead0efaec14880d7e 03d9746af617701f61043487737abf653462f52d zstd-pure-20260628 zstd-pure.asd
