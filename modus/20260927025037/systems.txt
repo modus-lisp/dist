@@ -1,0 +1,126 @@
+# project system-file system-name [dependency1..dependencyN]
+brotli-pure brotli-pure brotli-pure
+brotli-pure brotli-pure brotli-pure/test brotli-pure
+cabinet cabinet cabinet pagetree
+cabinet cabinet cabinet/test cabinet
+cairn cairn cairn conch cram sb-posix seal seal/http
+cairn cairn cairn/cabinet cabinet cairn
+cairn cairn cairn/pagetree cairn pagetree
+cassette cassette cassette reed reel
+chord chord chord mill
+chord chord chord/fetch chord weft/fetch
+cl-consensus cl-consensus cl-consensus bordeaux-threads cl-transport com.inuoe.jzon hunchentoot ironclad pagetree secp256k1-fast usocket
+cl-consensus cl-consensus cl-consensus/tor cl-consensus cl-tor-transport
+cl-frpc cl-frpc cl-frpc bordeaux-threads cl-transport com.inuoe.jzon ironclad seal
+cl-frpc cl-frpc cl-frpc/test cl-frpc
+cl-nostr cl-nostr cl-nostr bordeaux-threads cl-base64 com.inuoe.jzon ironclad seal/http seal/websocket secp256k1-fast
+cl-nostr cl-nostr cl-nostr/test cl-nostr
+cl-payments cl-payments cl-payments bordeaux-threads cl-consensus cl-transport ironclad secp256k1-fast
+cl-payments cl-payments cl-payments/test cl-payments
+cl-tor cl-tor cl-tor bordeaux-threads chipz ironclad seal usocket
+cl-tor cl-tor cl-tor/test cl-tor
+cl-tor cl-tor-transport cl-tor-transport cl-tor cl-transport
+cl-transport cl-transport cl-transport bordeaux-threads cl-transport/listeners sb-bsd-sockets usocket
+cl-transport cl-transport cl-transport/ice bordeaux-threads ironclad sb-bsd-sockets uiop
+cl-transport cl-transport cl-transport/listeners sb-bsd-sockets sb-posix
+conch conch conch natrium sb-bsd-sockets seal
+cram cram cram
+cram cram cram/test chipz cram salza2 uiop
+folio folio folio cram gesso pigment scribe
+gesso gesso gesso scribe
+glass-sdl glass-sdl glass-sdl glass/audio glass/client glass/mic
+glass-webrtc glass-webrtc glass-webrtc glass hunchentoot webrtc-data webrtc-media
+glass-webrtc glass-webrtc glass-webrtc/nostr cl-nostr glass-webrtc glass/nostr
+glass glass glass cl-transport/listeners cram glass/clipboard glass/fb sb-bsd-sockets sb-posix
+glass glass glass/audio glass/fb reed
+glass glass glass/audio-stream glass glass/audio
+glass glass glass/client glass
+glass glass glass/clipboard glass/fb
+glass glass glass/dictation glass/clipboard glass/hearing
+glass glass glass/fb
+glass glass glass/headset glass glass/audio-stream glass/mic-stream
+glass glass glass/hearing glass/audio glass/mic stave
+glass glass glass/mic glass/fb reed
+glass glass glass/mic-stream glass glass/audio-stream glass/mic
+glass glass glass/nostr cl-nostr glass ironclad
+glass glass glass/repl glass/term
+glass glass glass/site glass/nostr
+glass glass glass/speech chord glass/audio
+glass glass glass/term glass glass/text sb-posix scribe
+glass glass glass/test chipz glass
+glass glass glass/text glass/fb scribe
+glass glass glass/vncauth glass seal
+glass mcclim-glass mcclim-glass glass glass/term glass/text mcclim mcclim-render sb-concurrency
+glass mcclim-glass mcclim-glass/climacs climacs mcclim-glass
+glass mcclim-glass mcclim-glass/listen glass/dictation glass/hearing mcclim
+glass mcclim-glass mcclim-glass/mixer mcclim-glass
+glass mcclim-glass mcclim-glass/music mcclim-glass
+glass mcclim-glass mcclim-glass/remote glass/client mcclim-glass
+glass mcclim-glass mcclim-glass/speak glass/speech mcclim
+loom loom loom cram folio seal weft/fetch weft/render weft/script
+loom loom loom/glass glass glass/text loom
+loom loom loom/test loom
+mill mill mill
+mill mill mill/npy mill
+modus modus modus
+natrium natrium natrium
+natrium natrium natrium/test natrium
+operandi-gui operandi-gui operandi-gui bordeaux-threads operandi warp
+operandi-gui operandi-gui operandi-gui/gateway operandi-gui sb-introspect
+operandi-gui operandi-gui operandi-gui/serve babel operandi-gui warp-dom/serve
+operandi operandi operandi babel bordeaux-threads cl-base64 cl-ppcre com.inuoe.jzon quill quri seal/http sqlite
+operandi operandi operandi/nostr bordeaux-threads cl-nostr operandi
+pagetree pagetree pagetree
+pagetree pagetree pagetree/test pagetree
+pigment pigment pigment cram scribe stencil webp-pure
+quill quill quill sb-posix
+quill quill quill/test quill
+reed reed reed
+reel reel reel
+scribe scribe scribe brotli-pure cram
+seal seal seal natrium sb-bsd-sockets
+seal seal seal/http sb-bsd-sockets seal
+seal seal seal/test seal
+seal seal seal/websocket sb-bsd-sockets seal
+secp256k1-fast secp256k1-fast secp256k1-fast
+secp256k1-fast secp256k1-fast secp256k1-fast/test secp256k1-fast
+shuttle shuttle shuttle
+shuttle shuttle shuttle/bundle shuttle
+shuttle shuttle shuttle/npm cram natrium seal seal/http shuttle shuttle/bundle shuttle/semver
+shuttle shuttle shuttle/semver shuttle
+spool spool spool reed weft/fetch
+spool spool spool/app mcclim spool/glass
+spool spool spool/glass glass/audio spool
+sqlite-pure sqlite-pure sqlite-pure sb-posix
+sqlite-pure sqlite-pure sqlite-pure/test sqlite-pure
+stave stave stave mill
+stave stave stave/fetch stave weft/fetch
+stencil stencil stencil cram gesso
+warp warp warp bordeaux-threads
+warp warp-catalogue warp-catalogue warp
+warp warp-catalogue warp-catalogue/dom warp-catalogue warp-dom
+warp warp-dom warp-dom warp
+warp warp-dom warp-dom/serve bordeaux-threads warp-dom
+warp warp-files warp-files warp warren
+warp warp-files warp-files/dom warp-dom warp-files
+warp warp-files warp-files/glass warp-files warp-glass
+warp warp-glass warp-glass bordeaux-threads glass glass/text scribe warp
+warp warp-media warp-media bordeaux-threads cassette reed warp
+warp warp-media warp-media/glass glass/audio warp-glass warp-media
+warp warp-monitor warp-monitor warp
+warp warp-monitor warp-monitor/glass warp-glass warp-monitor
+warp warp-quire warp-quire warp
+warp warp-quire warp-quire/dom warp-dom warp-quire
+warren warren warren gesso glass pigment sb-posix scribe
+webp-pure webp-pure webp-pure cram reel
+webrtc-data webrtc-data webrtc-data bordeaux-threads cl-transport/ice ironclad sb-bsd-sockets seal
+webrtc-data webrtc-data webrtc-data/transport bordeaux-threads cl-transport hunchentoot webrtc-data
+webrtc-media webrtc-media webrtc-media reed reel seal
+webrtc-media webrtc-media webrtc-media/rtc bordeaux-threads webrtc-data webrtc-media
+weft weft weft
+weft weft weft/fetch brotli-pure chipz seal weft zstd-pure
+weft weft weft/render gesso pigment scribe stencil webp-pure weft
+weft weft weft/script shuttle weft/render
+weft weft weft/test weft weft/fetch weft/render
+zstd-pure zstd-pure zstd-pure
+zstd-pure zstd-pure zstd-pure/test zstd-pure
