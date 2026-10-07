@@ -1,0 +1,5 @@
+name: modus
+version: 20261007130818
+distinfo-subscription-url: https://modus-lisp.github.io/dist/modus.txt
+release-index-url: https://modus-lisp.github.io/dist/modus/20261007130818/releases.txt
+system-index-url: https://modus-lisp.github.io/dist/modus/20261007130818/systems.txt

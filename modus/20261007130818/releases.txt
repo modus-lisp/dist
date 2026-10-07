@@ -1,0 +1,48 @@
+# project url size file-md5 content-sha1 prefix [system-file1..system-fileN]
+beacon https://modus-lisp.github.io/dist/modus/archive/beacon-20261007.tgz 76353 3713a4c68ddb0eff087737922834dc8a 8c84da451e44efe00f8322d9138d3138fbb064bc beacon-20261007 beacon.asd
+brotli-pure https://modus-lisp.github.io/dist/modus/archive/brotli-pure-20260630.tgz 85797 4a996a7615faba0fae10d56ee0dcad6e 19627654a3635d070c28d42c07a7e07a12db2b8e brotli-pure-20260630 brotli-pure.asd
+cabinet https://modus-lisp.github.io/dist/modus/archive/cabinet-20260830.tgz 19609 f7d71e52fded3fd039b13822e440027b b574c2d7e317c80f75471d987fd07fe810263954 cabinet-20260830 cabinet.asd
+cairn https://modus-lisp.github.io/dist/modus/archive/cairn-20260830.tgz 63191 fe91704d9769051a90205585f00ee849 ad4eed1be199258efa2d5f369c060d601a9ab3d8 cairn-20260830 cairn.asd
+cassette https://modus-lisp.github.io/dist/modus/archive/cassette-20260908.tgz 10914788 1c36f5bc61fdb3c4f1d271704e6037cb 1d6e9c9a7943bd1cf284e93e98f1ac1627850a7f cassette-20260908 cassette.asd
+chord https://modus-lisp.github.io/dist/modus/archive/chord-20261002.tgz 2200100 05079911c9f1cb1188ee6ebdeeae0acb 2151ce0da81aab5db7ac7ccfb32661cda2ecb492 chord-20261002 chord.asd
+cl-consensus https://modus-lisp.github.io/dist/modus/archive/cl-consensus-20261007.tgz 252798 56613b1db4c02314ad5eb039f9698594 14996beea9a666c4f86c93e6d60e0704789fafac cl-consensus-20261007 cl-consensus.asd
+cl-deposits https://modus-lisp.github.io/dist/modus/archive/cl-deposits-20261007.tgz 441552 78e3f56e4afedc1acb7dc2ce4586e7df 0e2c9c340c823967e4dfd3cacb34c75847211f53 cl-deposits-20261007 cl-deposits.asd
+cl-frpc https://modus-lisp.github.io/dist/modus/archive/cl-frpc-20261007.tgz 20485 f6a47264ca90dc819401fa2fdcb97170 fc17935e88459c81c7062340e758b817c52ef622 cl-frpc-20261007 cl-frpc.asd
+cl-nostr https://modus-lisp.github.io/dist/modus/archive/cl-nostr-20261007.tgz 53626 3724535e087b392e951a00ad74c68dc1 5dc1242249124f50d940b3d93dffd73537b89a7f cl-nostr-20261007 cl-nostr.asd
+cl-payments https://modus-lisp.github.io/dist/modus/archive/cl-payments-20260905.tgz 265526 580c9e63dab6235ee298ce063ab4bf88 83bd925f4f6633732519441708d6fe2ba735c6d3 cl-payments-20260905 cl-payments.asd
+cl-tor https://modus-lisp.github.io/dist/modus/archive/cl-tor-20260830.tgz 62771 baab50284c228409047be40f3d7d25fc 1a56b1f173676c7ba61ff6a42d628d9869f7a130 cl-tor-20260830 cl-tor.asd cl-tor-transport.asd
+cl-transport https://modus-lisp.github.io/dist/modus/archive/cl-transport-20260907.tgz 57073 e3e0769d9835588bb29f1e5976ea24e1 eaedad9eaea1a02648a87587376f016ca50c3b01 cl-transport-20260907 cl-transport.asd
+conch https://modus-lisp.github.io/dist/modus/archive/conch-20260830.tgz 31414 c91b99924c4fe0bb15ce2dee2c00a0c1 c42f2c70eb462a42a7a96d3cd527883aaf35e8ca conch-20260830 conch.asd
+cram https://modus-lisp.github.io/dist/modus/archive/cram-20260909.tgz 29773 44b2555b8b683e0cf3a1e812cf0402a7 32cc35b22d70da4157e7b7a763ac7f89f289e94d cram-20260909 cram.asd
+folio https://modus-lisp.github.io/dist/modus/archive/folio-20260830.tgz 3191165 247c14537fd7d79f35ec49394768266a 2d525478db57add5ea6cb335f23070fd29e8859c folio-20260830 folio.asd
+gesso https://modus-lisp.github.io/dist/modus/archive/gesso-20260830.tgz 26197 0a58ac8648bc72167cf91e403ce1c2f6 eb252526d1db62fc0bbb2908c9df67c1a28b9fab gesso-20260830 gesso.asd
+glass-sdl https://modus-lisp.github.io/dist/modus/archive/glass-sdl-20260830.tgz 36103 a6a1cff42a9f7397b1aa5bbee7587b53 22cba11cfad8e3114688e02a24f125f83959c92e glass-sdl-20260830 glass-sdl.asd
+glass-webrtc https://modus-lisp.github.io/dist/modus/archive/glass-webrtc-20261002.tgz 735498 10b4a01e1e9502f2e51b7f8ecd2a7a1c 947a0281f2a1475469c8a5d757b62069868a47af glass-webrtc-20261002 glass-webrtc.asd
+glass https://modus-lisp.github.io/dist/modus/archive/glass-20261002.tgz 2572027 f2c4f74bfa2a34581741601654d8e963 486fdf063bf795e2f9a3775f83f256e9b3a2c7ba glass-20261002 glass.asd backend/mcclim-glass.asd
+json-simple https://modus-lisp.github.io/dist/modus/archive/json-simple-20261007.tgz 16661 dec31b1d28bd0beca6e86be3c7132d1f 50a2bc23054c03bc7ac463507e67323d22221ad4 json-simple-20261007 json-simple.asd
+loom https://modus-lisp.github.io/dist/modus/archive/loom-20260920.tgz 137088 0ef1a22db2e254db92d7405ca9b6cb10 3a32630c1b51fb7160b56df47ede8d0438793f5d loom-20260920 loom.asd
+mill https://modus-lisp.github.io/dist/modus/archive/mill-20260830.tgz 99357 041a30f475ea5646c10be14313e9d681 863d8bea9495964553251aac671e80e43654a852 mill-20260830 mill.asd
+modus https://modus-lisp.github.io/dist/modus/archive/modus-20261006.tgz 21496216 661801439645a253b05b69053ac2ce1c 461caf85d309f54281bc7416abdda63530aac0d9 modus-20261006 modus.asd
+natrium https://modus-lisp.github.io/dist/modus/archive/natrium-20260929.tgz 154620 7d04502376f80bcf8779885a5b2b4e3c 8e4f60d8af32a209e13d148dce0cc4118030b092 natrium-20260929 natrium.asd
+operandi-gui https://modus-lisp.github.io/dist/modus/archive/operandi-gui-20260926.tgz 31931 04f6ef6aae76e972fa7127549ed7cd79 29195b92e321d019180c239ae9f936c2af9e5d01 operandi-gui-20260926 operandi-gui.asd
+operandi https://modus-lisp.github.io/dist/modus/archive/operandi-20261007.tgz 237920 9cdbb98d9b7ba9638d258e763e3221a5 87db271576dff4cfe9dde320508538a18af93109 operandi-20261007 operandi.asd
+pagetree https://modus-lisp.github.io/dist/modus/archive/pagetree-20260716.tgz 64338 fe7a62e0b7834535ba9af001ee4b378f 1f0d8e0f228228d0fc147eef9a86db569eebcf89 pagetree-20260716 pagetree.asd
+pigment https://modus-lisp.github.io/dist/modus/archive/pigment-20260830.tgz 18768 b7226e1136d08f66bfc85d80c6162713 adde479f3c93e6352245f8dd3f69ba47dd74a87e pigment-20260830 pigment.asd
+quill https://modus-lisp.github.io/dist/modus/archive/quill-20260926.tgz 19845 779fe7006b3cdf3ad47d0c0566ead3e8 857c9322c3f295ac0f48116ca51a275c2b48b8b4 quill-20260926 quill.asd
+reed https://modus-lisp.github.io/dist/modus/archive/reed-20260908.tgz 2772414 b7a9bcedf5b1f031ec0200d6ab3d1703 098471005911bffa5a16da57258c6235a63c1e36 reed-20260908 reed.asd
+reel https://modus-lisp.github.io/dist/modus/archive/reel-20260920.tgz 473206 e136887dcea87f62e25de99b9c9586ca eb69faf6beab8ccdc70117c54f7b5349a5f7475f reel-20260920 reel.asd
+scribe https://modus-lisp.github.io/dist/modus/archive/scribe-20260812.tgz 19279795 4ac525b82effe86afb32de4c8fef419e 924c4399df6fd8ba246e62f531f7f5e4d2204c66 scribe-20260812 scribe.asd
+seal https://modus-lisp.github.io/dist/modus/archive/seal-20260929.tgz 89566 e0428e2cfee12e2cf24204d75a2ad0c2 19e268ee09c7dfc9067b5ca0fb68725b3d1c4615 seal-20260929 seal.asd
+secp256k1-fast https://modus-lisp.github.io/dist/modus/archive/secp256k1-fast-20260908.tgz 37765 6c30e6c15b38675ed5b551e824d636b0 7662801aef35dc79a5a57914dcab2c321fc35c5d secp256k1-fast-20260908 secp256k1-fast.asd
+shuttle https://modus-lisp.github.io/dist/modus/archive/shuttle-20260921.tgz 853049 0f83ca74d0121d6a90da58be9cb47147 0b352daf7190a693ea91f7963c87dae0244013fb shuttle-20260921 shuttle.asd
+spool https://modus-lisp.github.io/dist/modus/archive/spool-20261001.tgz 47046 b1f00256e88c5f3b12e35d90d2d8bafa 633250c29bf4229d555d828f225ef57e37d2c30a spool-20261001 spool.asd
+sqlite-pure https://modus-lisp.github.io/dist/modus/archive/sqlite-pure-20260929.tgz 741405 90bdf619d8e6bf0417f2c4a2d5b8b5ab 7d13d46ad87cb44c99fc6b58667036bf97bb396b sqlite-pure-20260929 sqlite-pure.asd
+stave https://modus-lisp.github.io/dist/modus/archive/stave-20260830.tgz 67566 b80829b6c2716a298be64c17197222fb 3e8e28e42a031d12ae82a44d72d500917df48168 stave-20260830 stave.asd
+stencil https://modus-lisp.github.io/dist/modus/archive/stencil-20260830.tgz 53607 f9209ee370e56f3dd927c8656a71823b c2d476d7fbcc989cfcc4b3a02990b79eb11a5e42 stencil-20260830 stencil.asd
+warp https://modus-lisp.github.io/dist/modus/archive/warp-20260926.tgz 296197 6881991b4f0910834e436b40188d89c1 aa2f0842da1634b42e5b09c46d20c92cdd4d526e warp-20260926 warp.asd catalogue/warp-catalogue.asd dom/warp-dom.asd files/warp-files.asd glass/warp-glass.asd media/warp-media.asd app/warp-monitor.asd quire/warp-quire.asd
+warren https://modus-lisp.github.io/dist/modus/archive/warren-20260908.tgz 21229 d8f620284571fdcb84ccac8678e8fe79 4e07d8595d4b89f6af50b8c206232f815def21f6 warren-20260908 warren.asd
+webp-pure https://modus-lisp.github.io/dist/modus/archive/webp-pure-20260907.tgz 916680 ba3582639d51fcc08abf19e0cde1885b e37821028a8b2774ab66c3f95f38c1da5c8a0d9c webp-pure-20260907 webp-pure.asd
+webrtc-data https://modus-lisp.github.io/dist/modus/archive/webrtc-data-20260907.tgz 45880 d9eca8355c0c12228a62852ad45e425f 3a7608393ab8e27a0caf7c758bef0eaa3d739b6a webrtc-data-20260907 webrtc-data.asd
+webrtc-media https://modus-lisp.github.io/dist/modus/archive/webrtc-media-20260907.tgz 57727 e749064eae0323ce9c873a2a1f7a6729 f23c75de605f43f87c1bace136233459df47887f webrtc-media-20260907 webrtc-media.asd
+weft https://modus-lisp.github.io/dist/modus/archive/weft-20260921.tgz 8619528 78a27362e120ced457719a856ad5613a 64daaa2f657534609ca9a8518f0d4fab216628aa weft-20260921 weft.asd
+zstd-pure https://modus-lisp.github.io/dist/modus/archive/zstd-pure-20260830.tgz 28912 bee4a4b7fe6dab2ab302d279aa6192cc f51df5eab3d5827514ff47287632c7a9395dd4ef zstd-pure-20260830 zstd-pure.asd
