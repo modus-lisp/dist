@@ -124,3 +124,12 @@ branch, served via GitHub Pages. Every public modus-lisp repo with an `.asd` is 
 (glass-mcclim, kiln and skep have none yet). Verified: the main system of every project
 installs and quickloads from this dist into a clean Quicklisp, with no local source on
 the path. To rebuild: `./build.sh`, then commit and push.
+
+## modus binaries
+
+`bin/RELEASE/` holds modus itself, built three times on three hosts (SBCL, then the release's
+own Linux and Windows builders) with byte-identical results:
+`modus-linux-x64`, `modus-windows-x64.exe`, the builders that rebuild them, and `modus.com`,
+one file that runs on Linux and Windows.  Each release's `RELEASE.md` names the source commit and
+`SHA256SUMS` its files; `docs/building.md` in modus says how to rebuild and check them.
+Latest: [`bin/20261123/`](bin/20261123/).
