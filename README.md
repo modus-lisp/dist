@@ -132,4 +132,4 @@ own Linux and Windows builders) with byte-identical results:
 `modus-linux-x64`, `modus-windows-x64.exe`, `modus-macos-arm64`, the builders that rebuild
 them, and `modus.com`, one file that runs on Linux, macOS and Windows.  Each release's `RELEASE.md` names the source commit and
 `SHA256SUMS` its files; `docs/building.md` in modus says how to rebuild and check them.
-Latest: [`bin/20261125/`](bin/20261125/).
+Latest: [`bin/20261126/`](bin/20261126/).
