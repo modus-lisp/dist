@@ -130,6 +130,18 @@ the path. To rebuild: `./build.sh`, then commit and push.
 `bin/RELEASE/` holds modus itself, built three times on three hosts (SBCL, then the release's
 own Linux and Windows builders) with byte-identical results:
 `modus-linux-x64`, `modus-windows-x64.exe`, `modus-macos-arm64` and the builders that rebuild
-them.  (`modus.com`, a one-file build for all three, was withdrawn: Windows Defender flags it.)  Each release's `RELEASE.md` names the source commit and
+them.  Since `20261128` there are two more:
+
+- `modus-RELEASE.zip`: one folder with the three executables, `desk` and `repl` launchers for
+  Windows (`.cmd`), Linux (`.sh`) and macOS (`.command`), and every modus-lisp repository's
+  source under `src/`.  `desk` starts the glass desk and opens it in your browser.  It
+  replaces `modus.com`, a one-file build for all three, which was withdrawn because Windows
+  Defender flags it.
+- `modus-kiln-windows-x64.exe`: the Windows builder with kiln inside it.
+  `modus-kiln-windows-x64.exe --kiln sync` clones the whole org into the current directory,
+  and `--kiln windows` builds and installs modus from it.  It needs no git, bash or SBCL
+  (kiln's README, "On Windows, with nothing but modus.exe").
+
+Each release's `RELEASE.md` names the source commit and
 `SHA256SUMS` its files; `docs/building.md` in modus says how to rebuild and check them.
-Latest: [`bin/20261126/`](bin/20261126/).
+Latest: [`bin/20261128/`](bin/20261128/).
