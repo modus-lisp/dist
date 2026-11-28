@@ -1,5 +1,9 @@
 # modus release 2026-11-26
 
+> **`modus.com` has been withdrawn from this release** (2026-11-28): Windows Defender flags the
+> one-file polyglot.  The other files are unchanged and `SHA256SUMS` lists them.  What follows
+> describes the release as it was built.
+
 Source: `modus-lisp/modus` commit `057780f88ed6d68cd10d43c193ebf7693f709872`.  Build ID `5732367` (`$((16#057780f))`).
 
 New since `20261125`:
